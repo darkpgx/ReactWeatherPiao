@@ -1,5 +1,6 @@
 var axios = require('axios');
 
+//Feel free to use my openweathermap api key or generate your own. It is free
 const OPEN_WEATHER_MAP_URL = "http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=8d8624083720c127dd5345966e7f14b1";
 
 module.exports = {
